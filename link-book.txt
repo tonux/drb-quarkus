@@ -1,0 +1,2 @@
+- https://developers.redhat.com/books/understanding-quarkus
+- https://developers.redhat.com/books/practising-quarkus
